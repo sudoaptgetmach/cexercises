@@ -10,3 +10,4 @@ output/average2.exe
 output/difference.exe
 output/extremelybasic.exe
 output/sum.exe
+.vscode/c_cpp_properties.json
