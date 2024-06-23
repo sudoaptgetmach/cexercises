@@ -2,7 +2,7 @@
 .idea/discord.xml
 .vscode/tasks.json
 .idea/modules.xml
-.output/
+output/
 salary.exe
 average.exe
 circle.exe
