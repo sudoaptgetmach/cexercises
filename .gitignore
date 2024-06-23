@@ -2,5 +2,11 @@
 .idea/discord.xml
 .vscode/tasks.json
 .idea/modules.xml
+.output/
 salary.exe
-*.exe
+average.exe
+circle.exe
+output/average2.exe
+output/difference.exe
+output/extremelybasic.exe
+output/sum.exe
