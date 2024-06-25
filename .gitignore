@@ -3,12 +3,5 @@
 .vscode/tasks.json
 .idea/modules.xml
 beecrowd/output/
-salary.exe
-average.exe
-circle.exe
-output/average2.exe
-output/difference.exe
-output/extremelybasic.exe
-output/sum.exe
 .vscode/c_cpp_properties.json
 .vscode/settings.json
