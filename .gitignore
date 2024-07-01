@@ -3,5 +3,6 @@
 .vscode/tasks.json
 .idea/modules.xml
 beecrowd/output/
+w3resource/output/
 .vscode/c_cpp_properties.json
 .vscode/settings.json
